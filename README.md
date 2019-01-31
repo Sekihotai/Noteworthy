@@ -1,7 +1,7 @@
 
 
 # Noteworthy
-A minimal note taking app following Material Design guidelines
+A minimalistic note taking app with Material Design style.
 
 ## Screenshots
 <img src="https://raw.githubusercontent.com/SubhrajyotiSen/Noteworthy/master/screenshots/d3.png" width="360"><img src="https://raw.githubusercontent.com/SubhrajyotiSen/Noteworthy/master/screenshots/d2.png" width="360"><img src="https://raw.githubusercontent.com/SubhrajyotiSen/Noteworthy/master/screenshots/d1.png" width="360"><img src="https://raw.githubusercontent.com/SubhrajyotiSen/Noteworthy/master/screenshots/d4.png" width="360"><img src="https://raw.githubusercontent.com/SubhrajyotiSen/Noteworthy/master/screenshots/d5.png" width="360">
